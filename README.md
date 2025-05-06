@@ -52,7 +52,7 @@ Install the required Python packages:
 ```bash
 pip install pandas numpy scikit-learn transformers geopy torch matplotlib
 
---
+---
 
 ## 📂 Data Access
 
@@ -62,7 +62,7 @@ The processed data files used in this project are available at the following sec
 
 > ⚠ Original LinkedIn / BrightData raw datasets are *not* included in the repository, in accordance with the project policy.
 
---
+---
 
 ### 🕸 project_scraping.ipynb – Scraping Module  
 This notebook contains the code used to collect online course data using automated web scraping. The scraping was performed via *Bright Data proxies*, enabling access to course platforms such as Coursera and Udemy as part of the data collection process.
