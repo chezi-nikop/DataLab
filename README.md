@@ -51,3 +51,11 @@ Install the required Python packages:
 
 ```bash
 pip install pandas numpy scikit-learn transformers geopy torch matplotlib
+
+## 📂 Data Access
+
+The processed data files used in this project are available at the following secure location:
+
+🔗 [Private Google Drive Link](https://drive.google.com/your_link_here)
+
+> ⚠ Original LinkedIn / BrightData raw datasets are *not* included in the repository, in accordance with the project policy.
