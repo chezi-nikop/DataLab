@@ -54,6 +54,11 @@ These files are hosted in a private folder accessible here:
 > ❌ Do not include any raw LinkedIn or Bright Data files in the repository or in this folder.
 
 ---
+## 📢 Project Video Demonstration
+
+we created a short video presenting the project and explaining its components.
+
+🔗 [🎬 Watch the demo video][https://drive.google.com/drive/folders/1ZnQMmPHOd507nDV-H_7NN7YzFmiRJQHa?usp=drive_link]
 
 ## ⚙ How to Run
 
@@ -64,8 +69,5 @@ Please make sure the required dependencies are installed.
 ```bash
 pip install pandas numpy scikit-learn transformers geopy torch matplotlib
 
-## 📢 Project Video Demonstration
 
-we created a short video presenting the project and explaining its components.
 
-🔗 [🎬 Watch the demo video][(https://your-link-here.com](https://drive.google.com/drive/folders/1ZnQMmPHOd507nDV-H_7NN7YzFmiRJQHa?usp=drive_link)
