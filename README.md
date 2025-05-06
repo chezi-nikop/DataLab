@@ -63,3 +63,9 @@ Please make sure the required dependencies are installed.
 ### Installation:
 ```bash
 pip install pandas numpy scikit-learn transformers geopy torch matplotlib
+
+## 📢 Project Video Demonstration
+
+we created a short video presenting the project and explaining its components.
+
+🔗 [🎬 Watch the demo video][(https://your-link-here.com](https://drive.google.com/drive/folders/1ZnQMmPHOd507nDV-H_7NN7YzFmiRJQHa?usp=drive_link)
