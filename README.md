@@ -48,8 +48,7 @@ However, the following *processed and publicly available datasets* are shared fo
 2. linkedin_124k_kaggle_filterd.csv – A public job listing dataset downloaded from Kaggle and filtered to include relevant job postings for testing the recommendation system.
 
 These files are hosted in a private folder accessible here:  
-🔗 [(https://drive.google.com/file/d/1ny7YSy5GLceZvdcdsVA71NP3H-SRQafe/view?usp=drive_link)
-(https://drive.google.com/file/d/1H2JmmJGB6BswiSCLXzqP9sLfUq1cauJn/view?usp=drive_link)]
+🔗 [https://drive.google.com/drive/folders/1OnR9EMFlNNsNN3u2Hl7QEkor_m_Q8sGV?usp=drive_link]
 
 > ✅ Access permission should be set to: *"Anyone with the link can view"*  
 > ❌ Do not include any raw LinkedIn or Bright Data files in the repository or in this folder.
